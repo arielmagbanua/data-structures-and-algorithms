@@ -4,7 +4,7 @@ import random
 def max_pairwise_product(numbers):
     n = len(numbers)
     max_product = 0
-    
+
     for first in range(n):
         for second in range(first + 1, n):
             max_product = max(max_product, numbers[first] * numbers[second])
@@ -19,7 +19,7 @@ def max_pairwise_product_fast(numbers):
     for i in range(n):
         if numbers[i] > numbers[max_index1]:
             max_index1 = i
-    
+   
     if max_index1 == 0:
         max_index2 = 1
     
