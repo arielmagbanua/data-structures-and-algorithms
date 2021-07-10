@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<workspace>
+
+	<settings>
+
+		<label>Stacks</label>
+
+		<id>69</id>
+
+		<version>0</version>
+
+	</settings>
+
+	<users>
+
+		<user>
+
+			<path>Stacks.jcu</path>
+
+		</user>
+
+	</users>
+
+	<projects>
+
+		<project>
+
+			<path>MultipleDataStack\MultipleDataStack.jcp</path>
+
+		</project>
+
+		<project>
+
+			<path>ReverseString\ReverseString.jcp</path>
+
+		</project>
+
+		<project>
+
+			<path>StackSample\StackSample.jcp</path>
+
+		</project>
+
+	</projects>
+
+</workspace>
