@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<project>
+
+	<settings>
+
+		<label>ArraysSample</label>
+
+		<root_path>\</root_path>
+
+		<output_path>classes\</output_path>
+
+		<source_path>src\</source_path>
+
+		<jdkprofile_ref>JDK version 1.7.0_60</jdkprofile_ref>
+
+		<compiler_ref/>
+
+		<ant_ref/>
+
+	</settings>
+
+	<ant_events/>
+
+	<run_items/>
+
+	<runtimes>
+
+		<runtime>
+
+			<label>&lt;Default&gt;</label>
+
+			<application_ref/>
+
+			<applet_ref/>
+
+			<debugger_ref/>
+
+			<param/>
+
+			<run>ArraysSample</run>
+
+			<verify>true</verify>
+
+		</runtime>
+
+	</runtimes>
+
+	<libraries/>
+
+	<files>
+
+		<include>
+
+			<folderitem>
+
+				<path>src</path>
+
+			</folderitem>
+
+			<folderitem>
+
+				<path>ArrayApp</path>
+
+			</folderitem>
+
+			<folderitem>
+
+				<path>ArrayApp\src</path>
+
+			</folderitem>
+
+			<folderitem>
+
+				<path>Hello</path>
+
+			</folderitem>
+
+			<folderitem>
+
+				<path>Hello\src</path>
+
+			</folderitem>
+
+			<folderitem>
+
+				<path>TwoDimensionalArray</path>
+
+			</folderitem>
+
+			<folderitem>
+
+				<path>TwoDimensionalArray\src</path>
+
+			</folderitem>
+
+			<folderitem>
+
+				<path>MagicSquare</path>
+
+			</folderitem>
+
+			<folderitem>
+
+				<path>MagicSquare\src</path>
+
+			</folderitem>
+
+			<fileitem>
+
+				<path>src\ArraysSample.java</path>
+
+				<folder>src</folder>
+
+			</fileitem>
+
+			<fileitem>
+
+				<path>ArrayApp\src\ArrayApp.java</path>
+
+				<folder>ArrayApp\src</folder>
+
+			</fileitem>
+
+			<fileitem>
+
+				<path>Hello\src\Hello.java</path>
+
+				<folder>Hello\src</folder>
+
+			</fileitem>
+
+			<fileitem>
+
+				<path>TwoDimensionalArray\src\TwoDimensionalArray.java</path>
+
+				<folder>TwoDimensionalArray\src</folder>
+
+			</fileitem>
+
+			<fileitem>
+
+				<path>MagicSquare\src\MagicSquare.java</path>
+
+				<folder>MagicSquare\src</folder>
+
+			</fileitem>
+
+		</include>
+
+	</files>
+
+	<tasks/>
+
+</project>

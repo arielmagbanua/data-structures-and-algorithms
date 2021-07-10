@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<workspace>
+
+	<settings>
+
+		<label>ArraysSample</label>
+
+		<id>279</id>
+
+		<version>0</version>
+
+	</settings>
+
+	<users>
+
+		<user>
+
+			<path>ArraysSample.jcu</path>
+
+		</user>
+
+	</users>
+
+	<projects>
+
+		<project>
+
+			<path>BubbleSort\BubbleSort.jcp</path>
+
+		</project>
+
+		<project>
+
+			<path>InsertionSort\InsertionSort.jcp</path>
+
+		</project>
+
+		<project>
+
+			<path>MagicSquare\MagicSquare.jcp</path>
+
+		</project>
+
+		<project>
+
+			<path>Searching\Searching.jcp</path>
+
+		</project>
+
+		<project>
+
+			<path>SelectionSort\SelectionSort.jcp</path>
+
+		</project>
+
+		<project>
+
+			<path>SortingString\SortingString.jcp</path>
+
+		</project>
+
+		<project>
+
+			<path>TwoDimensionalArray\TwoDimensionalArray.jcp</path>
+
+		</project>
+
+	</projects>
+
+</workspace>

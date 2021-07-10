@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<workspace_user>
+
+	<active_project>
+
+		<label>SortingString</label>
+
+	</active_project>
+
+	<projects>
+
+		<project>
+
+			<label>BubbleSort</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>BubbleSort\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>InsertionSort</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>InsertionSort\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>MagicSquare</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>MagicSquare\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>Searching</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>Searching\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>SelectionSort</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>SelectionSort\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>SortingString</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>SortingString\classes</path>
+
+				<dir>classes</dir>
+
+			</folderitem>
+
+			<folderitem>
+
+				<path>SortingString\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>TwoDimensionalArray</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>TwoDimensionalArray\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+	</projects>
+
+	<open_files>
+
+		<docitem>
+
+			<path>src\ArraysSample.java</path>
+
+			<source>true</source>
+
+			<index>0</index>
+
+			<active>false</active>
+
+		</docitem>
+
+		<docitem>
+
+			<path>ArrayApp\src\ArrayApp.java</path>
+
+			<source>true</source>
+
+			<index>1</index>
+
+			<active>false</active>
+
+		</docitem>
+
+		<docitem>
+
+			<path>MagicSquare\src\MagicSquare.java</path>
+
+			<source>true</source>
+
+			<index>2</index>
+
+			<active>false</active>
+
+		</docitem>
+
+		<docitem>
+
+			<path>Searching\src\Searching.java</path>
+
+			<source>true</source>
+
+			<index>3</index>
+
+			<active>false</active>
+
+		</docitem>
+
+		<docitem>
+
+			<path>BubbleSort\src\BubbleSort.java</path>
+
+			<source>true</source>
+
+			<index>4</index>
+
+			<active>false</active>
+
+		</docitem>
+
+		<docitem>
+
+			<path>SelectionSort\src\SelectionSort.java</path>
+
+			<source>true</source>
+
+			<index>5</index>
+
+			<active>true</active>
+
+		</docitem>
+
+		<docitem>
+
+			<path>InsertionSort\src\InsertionSort.java</path>
+
+			<source>true</source>
+
+			<index>6</index>
+
+			<active>false</active>
+
+		</docitem>
+
+	</open_files>
+
+</workspace_user>
