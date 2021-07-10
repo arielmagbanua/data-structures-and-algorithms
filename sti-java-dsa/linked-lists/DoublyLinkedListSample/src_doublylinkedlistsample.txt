@@ -1,0 +1,3 @@
+"C:\\Users\\Ariel\\Documents\\JCreator LE\\MyProjects\\LinkedLists\\DoublyLinkedListSample\\src\\DoublyLinkedList.java"
+"C:\\Users\\Ariel\\Documents\\JCreator LE\\MyProjects\\LinkedLists\\DoublyLinkedListSample\\src\\DoublyLinkedListSample.java"
+"C:\\Users\\Ariel\\Documents\\JCreator LE\\MyProjects\\LinkedLists\\DoublyLinkedListSample\\src\\Node.java"
