@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<workspace_user>
+
+	<active_project>
+
+		<label>NumberMultiplesRecursion</label>
+
+	</active_project>
+
+	<projects>
+
+		<project>
+
+			<label>Anagram</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>Anagram\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>Factorial</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>Factorial\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>FactorialOrTriangle</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>FactorialOrTriangle\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>NumberMultiplesRecursion</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>NumberMultiplesRecursion\classes</path>
+
+				<dir>classes</dir>
+
+			</folderitem>
+
+			<folderitem>
+
+				<path>NumberMultiplesRecursion\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>RecursionSample</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>RecursionSample\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>RecursiveBinarySearch</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>RecursiveBinarySearch\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>TowerOfHanoi</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>TowerOfHanoi\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>TriangleApp</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>TriangleApp\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+	</projects>
+
+	<open_files>
+
+		<docitem>
+
+			<path>NumberMultiplesRecursion\src\NumberMultiplesRecursion.java</path>
+
+			<source>true</source>
+
+			<index>0</index>
+
+			<active>true</active>
+
+		</docitem>
+
+	</open_files>
+
+</workspace_user>
