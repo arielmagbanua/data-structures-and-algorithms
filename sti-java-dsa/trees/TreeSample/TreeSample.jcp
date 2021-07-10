@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<project>
+
+	<settings>
+
+		<label>TreeSample</label>
+
+		<root_path>\</root_path>
+
+		<output_path>classes\</output_path>
+
+		<source_path>src\</source_path>
+
+		<jdkprofile_ref>JDK version 1.7.0_60</jdkprofile_ref>
+
+		<compiler_ref/>
+
+		<ant_ref/>
+
+	</settings>
+
+	<ant_events/>
+
+	<run_items/>
+
+	<runtimes>
+
+		<runtime>
+
+			<label>&lt;Default&gt;</label>
+
+			<application_ref/>
+
+			<applet_ref/>
+
+			<debugger_ref/>
+
+			<param/>
+
+			<run>TreeSample.TreeApp</run>
+
+			<verify>true</verify>
+
+		</runtime>
+
+	</runtimes>
+
+	<libraries/>
+
+	<files>
+
+		<include>
+
+			<folderitem>
+
+				<path>src</path>
+
+			</folderitem>
+
+			<fileitem>
+
+				<path>src\Node.java</path>
+
+				<folder>src</folder>
+
+			</fileitem>
+
+			<fileitem>
+
+				<path>src\Tree.java</path>
+
+				<folder>src</folder>
+
+			</fileitem>
+
+			<fileitem>
+
+				<path>src\TreeApp.java</path>
+
+				<folder>src</folder>
+
+			</fileitem>
+
+		</include>
+
+	</files>
+
+	<tasks>
+
+		<todotaskitem>
+
+			<description>TODO, add your application code</description>
+
+			<filepath>src\TreeSample.java</filepath>
+
+			<line>16</line>
+
+			<timestamp>1422622287</timestamp>
+
+		</todotaskitem>
+
+	</tasks>
+
+</project>
