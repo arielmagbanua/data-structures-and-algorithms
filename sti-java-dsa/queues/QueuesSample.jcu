@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<workspace_user>
+
+	<active_project>
+
+		<label>PriorityQueue</label>
+
+	</active_project>
+
+	<projects>
+
+		<project>
+
+			<label>PriorityQueue</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>PriorityQueue\classes</path>
+
+				<dir>classes</dir>
+
+			</folderitem>
+
+			<folderitem>
+
+				<path>PriorityQueue\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+		<project>
+
+			<label>QueueApp</label>
+
+			<showfiles>false</showfiles>
+
+			<folderitem>
+
+				<path>QueueApp\src</path>
+
+				<dir>src</dir>
+
+			</folderitem>
+
+		</project>
+
+	</projects>
+
+	<open_files>
+
+		<docitem>
+
+			<path>PriorityQueue\src\PriorityQueue.java</path>
+
+			<source>true</source>
+
+			<index>0</index>
+
+			<active>false</active>
+
+		</docitem>
+
+		<docitem>
+
+			<path>PriorityQueue\src\Queue.java</path>
+
+			<source>true</source>
+
+			<index>1</index>
+
+			<active>true</active>
+
+		</docitem>
+
+		<docitem>
+
+			<path>QueueApp\src\QueueApp.java</path>
+
+			<source>true</source>
+
+			<index>2</index>
+
+			<active>false</active>
+
+		</docitem>
+
+	</open_files>
+
+</workspace_user>
