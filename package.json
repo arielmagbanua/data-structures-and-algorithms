@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/arielmagbanua/data-structures-and-algorithms/issues"
   },
-  "homepage": "https://github.com/arielmagbanua/data-structures-and-algorithms#readme"
+  "homepage": "https://github.com/arielmagbanua/data-structures-and-algorithms#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
 }
