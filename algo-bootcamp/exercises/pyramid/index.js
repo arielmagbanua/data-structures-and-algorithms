@@ -14,6 +14,56 @@
 //       ' ### '
 //       '#####'
 
-function pyramid(n) {}
+function pyramid(n) {
+    let width = (n * 2) - 1;
+    
+
+    for (let row = 1; row <= n; row++) {
+        const pounds = (row * 2) - 1;
+        sideSpaces = (width - pounds) / 2;
+
+        let level = '';
+
+        for (let i = 0; i < sideSpaces; i++) {
+            level += ' ';
+        }
+
+        for (let i = 0; i < pounds; i++) {
+            level += '#';
+        }
+
+        for (let i = 0; i < sideSpaces; i++) {
+            level += ' ';
+        }
+
+        console.log(level);
+    }
+}
+
+// function pyramid(n) {
+//     let spaces = n;
+//     let pounds = 1;
+
+//     for (let row = 1; row <= n; row++) {
+//         spaces -= 1;
+
+//         let level = '';
+
+//         for (let i = 0; i < spaces; i++) {
+//             level += ' ';
+//         }
+
+//         for (let i = 0; i < pounds; i++) {
+//             level += '#';
+//         }
+
+//         for (let i = 0; i < spaces; i++) {
+//             level += ' ';
+//         }
+
+//         pounds += 2; 
+//         console.log(level);
+//     }
+// }
 
 module.exports = pyramid;
